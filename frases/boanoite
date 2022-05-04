@@ -29,6 +29,7 @@
   "Engraçadas": [
     "Boa noite, e livrái-nos da insônia, amém!",
     "Também estou indo tirar meu soninho da beleza."
+    "Vamos lá: com Deus eu me deito..."
   ],
   "Engraçadas-Singular": [
     "Achei que não fosse dormir mais.",
@@ -40,6 +41,9 @@
     "Vá na fé.",
     "Já vai dormir? e eu fico como?.",
     "Vá dormir que amanhã o bicho pega."
+    "Colocou o telefone pra carregar?"
+    "Lembrou de trancar a porta?"
+    "Boa noite, escovou os dentes?"
   ],
   "Engraçadas-Plural": [
     "Achei que não fossem dormir mais.",
@@ -51,20 +55,25 @@
     "Vão na fé.",
     "Já vão dormir? e eu fico como?.",
     "Vão dormir que amanhã o bicho pega."
+    "E os telefones? Carregando?"
+    "Boa noite, escovaram os dentes?"
   ],
   "Sarcásticas":[
     "Dormir é para os fracos."
+    "Já tomou suas gotinhas?"
   ],
   "Sarcásticas-Singular":[
     "Se precisar de alguma coisa, se vire! Preciso descansar também!",
     "Dorme essa hora e depois reclamam de cansaço.",
     "Ainda bem, não aguentava mais ficar te respondendo.",
     "Tudo bem e não me pertube mais por hoje."
+    "Não adianta fazer as contas de quantas horas irá dormir"
   ],
   "Sarcásticas-Plural":[
     "Se precisarem de alguma coisa, se virem! Preciso descansar também!",
     "Dormem essa hora e depois reclamam de cansaço.",
     "Ainda bem, não aguentava mais ficar respondendo vocês.",
     "Tudo bem e não me pertubem mais por hoje."
+    "Aham, vamos ver quem vai pedir algo primeiro."
   ]
 }
